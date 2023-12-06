@@ -9,7 +9,7 @@
 
 .x-form-text-default {
     color: #818082;
-    background-color: #4A4D53;
+    background-color: #000000;
     font: 300 13px/17px 'helvetica', 'arial', 'verdana', sans-serif;
     min-height: 22px;
     padding: 0 6px 2px
@@ -82,7 +82,7 @@
 
 .x-grid-item:hover,
 .x-grid-item.x-grid-item-selected {
-    background-color: #4A4D53
+    background-color: #000000
 }
 
 .x-grid-item-alt {
@@ -334,20 +334,20 @@
 
 .x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-toolbar-small.x-btn-over,
 .x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-toolbar-small.x-btn-menu-active {
-    background-color: #677bc4
+    background-color: #ff0000
 }
 
 .x-btn.x-unselectable.x-box-item.x-btn-default-small.x-btn-over {
-    background-color: #677bc4
+    background-color: #ff0000
 }
 
 .x-btn.x-btn-menu-active.x-btn-default-toolbar-small,
 .x-btn.x-btn.x-btn-pressed.x-btn-default-toolbar-small {
-    background-color: #677bc4
+    background-color: #ff0000
 }
 
 .x-btn-over.x-btn-default-toolbar-small {
-    background-color: #677bc4
+    background-color: #ff0000
 }
 
 .x-keyboard-mode .x-btn-focus.x-btn-default-toolbar-small,
@@ -519,7 +519,7 @@
 }
 
 .x-menu-item-focus {
-    background-color: #677bc4
+    background-color: #ff0000
 }
 
 .x-menu-item {
@@ -665,7 +665,7 @@ div[aria-labelledby^="ext-comp-"][aria-labelledby$="_header-title-textEl"]>div:n
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-cube {
-    color: #666 !important
+    color: #000000 !important
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-cube.running {
@@ -681,7 +681,7 @@ div[aria-labelledby^="ext-comp-"][aria-labelledby$="_header-title-textEl"]>div:n
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-desktop.stopped {
-    color: #666 !important
+    color: #000000 !important
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-database {
@@ -693,7 +693,7 @@ div[aria-labelledby^="ext-comp-"][aria-labelledby$="_header-title-textEl"]>div:n
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-file-o:after {
-    color: #666;
+    color: #000000;
     background: transparent;
     text-shadow: none
 }
@@ -703,7 +703,7 @@ div[aria-labelledby^="ext-comp-"][aria-labelledby$="_header-title-textEl"]>div:n
 }
 
 .x-tree-icon.x-tree-icon-custom.x-tree-icon-leaf.fa.fa-tags {
-    color: #666 !important
+    color: #000000 !important
 }
 
 .x-tree-icon.x-tree-icon-custom.lock-migrate:after {
@@ -824,11 +824,11 @@ hr[class*="x-component"] {
 }
 
 .x-boundlist-item:hover {
-    background-color: #4A4D53
+    background-color: #000000
 }
 
 .x-boundlist-item.x-boundlist-selected {
-    background-color: #4A4D53
+    background-color: #000000
 }
 
 .x-boundlist {
@@ -851,7 +851,7 @@ hr[class*="x-component"] {
 }
 
 .x-datepicker-cell {
-    border: 0.5px solid #4A4D53
+    border: 0.5px solid #000000
 }
 
 .x-datepicker-header {
@@ -884,7 +884,7 @@ hr[class*="x-component"] {
     border: none !important;
     color: white !important;
     opacity: 1;
-    background-color: #4A4D53 !important
+    background-color: #000000 !important
 }
 
 div[id^="pveDcHealth-"][id$="-body"],
@@ -1152,7 +1152,7 @@ div[id="pkgversions"] {
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-database {
-    color: #666
+    color: #000000
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-database.available {
@@ -1164,7 +1164,7 @@ div[id="pkgversions"] {
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-desktop.stopped {
-    color: #666
+    color: #000000
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-cube {
@@ -1172,7 +1172,7 @@ div[id="pkgversions"] {
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-cube.stopped {
-    color: #666
+    color: #000000
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-file-o:before {
@@ -1180,13 +1180,13 @@ div[id="pkgversions"] {
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-file-o:after {
-    color: #666;
+    color: #000000;
     background: transparent;
     text-shadow: none
 }
 
 .fa-fw.x-grid-icon-custom.fa.fa-tags {
-    color: #666
+    color: #000000
 }
 
 .lxc:after {
@@ -1244,7 +1244,7 @@ div[id="pkgversions"] {
 }
 
 .pmx-md pre code {
-    border-left: 3px solid #4A4D53
+    border-left: 3px solid #000000
 }
 
 .pmx-md tbody tr:nth-of-type(even) {
@@ -1303,7 +1303,7 @@ html {
 ::-webkit-scrollbar {
     width: 0;
     height: 6px;
-    background: #4A4D53
+    background: #000000
 }
 
 ::-webkit-scrollbar:hover {
